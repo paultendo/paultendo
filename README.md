@@ -8,8 +8,10 @@ I build legal technology, at [Fifty Six Law](https://fiftysixlaw.co.uk) and inde
 
 **[d0ma1n](https://d0ma1n.app)** finds the lookalikes of a domain that someone has already registered, and what each one is set up to do.
 
+**[skills](https://github.com/paultendo/skills)** teach Claude Code and Codex to use namespace-guard and d0ma1n when a task calls for them. Add them with `claude plugin marketplace add paultendo/skills`.
+
 **[tothepenny](https://paultendo.github.io/tothepenny/)** turns bank statement PDFs into a spreadsheet, checked against the balances the bank printed. It runs in your browser, so the statements stay on your computer.
 
 **[agent-notify](https://github.com/paultendo/agent-notify)** sends a desktop notification when Codex, Claude Code or Gemini CLI finishes, needs an approval or hits an error.
 
-[Blog](https://paultendo.github.io) · [LinkedIn](https://www.linkedin.com/in/p-wood/)
+[Blog](https://paultendo.github.io) · [Substack](https://paultendo.substack.com) · [LinkedIn](https://www.linkedin.com/in/p-wood/)
