@@ -8,7 +8,7 @@ I build legal technology, at [Fifty Six Law](https://fiftysixlaw.co.uk) and inde
 
 **[d0ma1n](https://d0ma1n.app)** finds the lookalikes of a domain that someone has already registered, and what each one is set up to do.
 
-**[skills](https://github.com/paultendo/skills)** teach Claude Code and Codex to use namespace-guard and d0ma1n when a task calls for them. namespace-guard is in Anthropic's plugin directory, and both can be added with `claude plugin marketplace add paultendo/skills`.
+**[skills](https://github.com/paultendo/skills)** teach Claude Code and Codex to use namespace-guard and d0ma1n when a task calls for them. namespace-guard is in Anthropic's plugin directory and d0ma1n is awaiting approval. Both can be added with `claude plugin marketplace add paultendo/skills`.
 
 **[tothepenny](https://paultendo.github.io/tothepenny/)** turns bank statement PDFs into a spreadsheet, checked against the balances the bank printed. It runs in your browser, so the statements stay on your computer.
 
